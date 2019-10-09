@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Submission1 - Katalog Film</string>
+    <string name="film_title">Judul Film</string>
+    <string name="film_overview">Overview Film</string>
+    <string name="txt_title">Film Title</string>
+    <string name="txt_release_date">Release Date</string>
+    <string name="txt_duration">Duration</string>
+    <string name="txt_language">Language</string>
+    <string name="txt_user_score">User Score</string>
+    <string name="txt_rating">Rating</string>
+    <string name="txt_revenue">Revenue</string>
+    <string name="txt_genre">Genre</string>
+    <string name="txt_overview">Overview</string>
+
+    <string-array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_preman</item>
+    </string-array>
+
+    <string-array name="data_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Preman Pensiun</item>
+    </string-array>
+
+    <string-array name="data_release_date">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 13, 2018</item>
+        <item>October 24, 2018</item>
+        <item>December 15, 2018</item>
+        <item>November 21, 2018</item>
+        <item>February 9, 2016</item>
+        <item>January 3, 2019</item>
+        <item>January 17, 2019</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>2h 15m</item>
+        <item>2h 24m</item>
+        <item>2h 29m</item>
+        <item>2h 4m</item>
+        <item>2h 15m</item>
+        <item>1h 54m</item>
+        <item>2h 10m</item>
+        <item>1h 48m</item>
+        <item>1h 44m</item>
+        <item>1h 34m</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>ENGLISH</item>
+        <item>INDONESIAN</item>
+    </string-array>
+
+    <string-array name="data_user_score">
+        <item>75%</item>
+        <item>68%</item>
+        <item>83%</item>
+        <item>70%</item>
+        <item>81%</item>
+        <item>65%</item>
+        <item>67%</item>
+        <item>76%</item>
+        <item>77%</item>
+        <item>65%</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>7.7</item>
+        <item>7.1</item>
+        <item>8.5</item>
+        <item>6.6</item>
+        <item>8.0</item>
+        <item>6.8</item>
+        <item>7.6</item>
+        <item>8.0</item>
+        <item>7.5</item>
+        <item>7.9</item>
+    </string-array>
+
+    <string-array name="data_revenue">
+        <item>$433M</item>
+        <item>$1B</item>
+        <item>$2B</item>
+        <item>$19M</item>
+        <item>$894M</item>
+        <item>$465M</item>
+        <item>$137M</item>
+        <item>$783M</item>
+        <item>$517M</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama, Romance, Music</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Thriller, Drama</item>
+        <item>Drama, Music</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Drama</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Animation, Family, Adventure</item>
+        <item>Comedy, Drama</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+    </string-array>
+</resources>
